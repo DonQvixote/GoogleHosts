@@ -5267,3 +5267,24 @@ static.ak.fbcdn.net    origincache-starfacebook-ai-01-05-ash3.facebook.com
 # Medium end
 
 # Modified hosts end
+
+# Build Date: 2016-05-17T01:51:50.828379 (UTC)
+# API-1-ChinaNetCenter [ChinaNet] (Avg RTT: 4.373ms)
+222.211.64.122  se.itunes.apple.com
+222.211.64.122  su.itunes.apple.com
+222.211.64.122  upp.itunes.apple.com
+222.211.64.122  play.itunes.apple.com
+222.211.64.122  client-api.itunes.apple.com
+# API-2-ChinaCache [ChinaNet] (Avg RTT: 8.282ms)
+125.65.247.14   itunes.apple.com
+125.65.247.14   init.itunes.apple.com
+# API-HK-Akamai-1 [HongKong0] (Avg RTT: 35.537ms)
+184.87.97.50    search.itunes.apple.com
+# API-HK-Akamai-2-AMRadio [HongKong1] (Avg RTT: 40.515ms)
+184.87.100.246  radio.itunes.apple.com
+184.87.100.246  radio-activity.itunes.apple.com
+184.87.100.246  radio-services.itunes.apple.com
+# Appple Music Streaming and iOS/OS X Apps [ChinaNet-ChinaNetCenter] (Avg RTT: 4.801ms)
+182.140.231.59  aod.itunes.apple.com
+182.140.231.59  mvod.itunes.apple.com
+182.140.231.59  streamingaudio.itunes.apple.com
