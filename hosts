@@ -1,7 +1,7 @@
 ###################################################
 # Copyright (c) 2016                              #
 # https://github.com/DonQvixote/GoogleHosts       #
-# Last updated: 2016-11-29                        #
+# Last updated: 2016-12-22                        #
 # iOS/OS X/Windows/linux/                         #
 ###################################################
 
@@ -101,25 +101,25 @@ fe80::1%lo0	localhost
 # Dropbox Start
 #######
 # Warning: SNIProxy being used.
-218.254.1.13	db.tt
-218.254.1.13	dropbox.com
-218.254.1.13	m.dropbox.com
-218.254.1.13	www.v.dropbox.com
-218.254.1.13	dl-debug.dropbox.com
+110.4.24.178	db.tt
+110.4.24.178	dropbox.com
+110.4.24.178	m.dropbox.com
+110.4.24.178	www.v.dropbox.com
+110.4.24.178	dl-debug.dropbox.com
+110.4.24.178	www.dropbox.com
 #######
-162.125.82.1	www.dropbox.com
 52.85.76.60	linux.dropbox.com
-108.160.172.193	d.dropbox.com
-108.160.172.193	d.v.dropbox.com
+108.160.172.225	d.dropbox.com
+108.160.172.225	d.v.dropbox.com
 162.125.18.132	dl-doc.dropbox.com
-108.160.172.193	api-d.dropbox.com
-108.160.172.237	api.dropboxapi.com
-108.160.172.237	api.dropbox.com
-108.160.172.237	api.v.dropbox.com
-108.160.172.237	api-notify.dropbox.com
-108.160.172.233	www.dropboxstatic.com
+108.160.172.225	api-d.dropbox.com
+108.160.172.225	api.dropboxapi.com
+108.160.172.225	api.dropbox.com
+108.160.172.225	api.v.dropbox.com
+108.160.172.225	api-notify.dropbox.com
+108.160.172.225	www.dropboxstatic.com
 104.16.100.29	cfl.dropboxstatic.com
-108.160.172.201	dbxlocal.dropboxstatic.com
+108.160.172.229	dbxlocal.dropboxstatic.com
 199.47.217.36	api-content.dropbox.com
 199.47.217.36	api-content-photos.dropbox.com
 108.160.172.207	photos.dropbox.com
@@ -211,28 +211,28 @@ fe80::1%lo0	localhost
 157.240.0.17	vupload2.facebook.com
 157.240.0.17	d.facebook.com
 157.240.0.17	fbcdn.net
-31.13.95.14	scontent.xx.fbcdn.net
-31.13.95.14	scontent-a.xx.fbcdn.net
-31.13.95.14	scontent-b.xx.fbcdn.net
-31.13.95.14	scontent-c.xx.fbcdn.net
-31.13.95.14	scontent-d.xx.fbcdn.net
-31.13.95.14	scontent-e.xx.fbcdn.net
-31.13.95.14	scontent-mxp.xx.fbcdn.net
-31.13.95.14	scontent-a-lax.xx.fbcdn.net
-31.13.95.14	scontent-a-sin.xx.fbcdn.net
-31.13.95.14	scontent-b-lax.xx.fbcdn.net
-31.13.95.14	scontent-b-sin.xx.fbcdn.net
-31.13.95.14	ent-a.xx.fbcdn.net
-31.13.95.14	ent-b.xx.fbcdn.net
-31.13.95.14	ent-c.xx.fbcdn.net
-31.13.95.14	ent-d.xx.fbcdn.net
-31.13.95.14	ent-e.xx.fbcdn.net
+31.13.78.17	scontent.xx.fbcdn.net
+31.13.78.17	scontent-a.xx.fbcdn.net
+31.13.78.17	scontent-b.xx.fbcdn.net
+31.13.78.17	scontent-c.xx.fbcdn.net
+31.13.78.17	scontent-d.xx.fbcdn.net
+31.13.78.17	scontent-e.xx.fbcdn.net
+31.13.78.17	scontent-mxp.xx.fbcdn.net
+31.13.78.17	scontent-a-lax.xx.fbcdn.net
+31.13.78.17	scontent-a-sin.xx.fbcdn.net
+31.13.78.17	scontent-b-lax.xx.fbcdn.net
+31.13.78.17	scontent-b-sin.xx.fbcdn.net
+31.13.78.17	ent-a.xx.fbcdn.net
+31.13.78.17	ent-b.xx.fbcdn.net
+31.13.78.17	ent-c.xx.fbcdn.net
+31.13.78.17	ent-d.xx.fbcdn.net
+31.13.78.17	ent-e.xx.fbcdn.net
 23.207.122.24	s-external.ak.fbcdn.net
 23.34.45.177	s-static.ak.fbcdn.net
 157.240.0.17	static.thefacebook.com
 157.240.0.17	attachment.fbsbx.com
-31.13.73.7	staticxx.facebook.com
-31.13.73.7	connect.facebook.net
+31.13.78.17	staticxx.facebook.com
+31.13.78.17	connect.facebook.net
 192.0.78.13	live.fb.com
 192.0.78.13	work.fb.com
 192.0.78.13	techprep.fb.com
@@ -242,7 +242,7 @@ fe80::1%lo0	localhost
 192.0.78.13	instantarticles.fb.com
 192.0.66.2	messengerplatform.fb.com
 199.201.64.67	threatexchange.fb.com
-31.13.95.14	video.xx.fbcdn.net
+31.13.78.17	video.xx.fbcdn.net
 184.28.188.10	fbcdn-sphotos-b-a.akamaihd.net
 184.28.188.10	vthumb.ak.fbcdn.net
 184.28.188.10	photos-a.ak.fbcdn.net
@@ -308,6 +308,8 @@ fe80::1%lo0	localhost
 61.91.161.217	clients4.google.com
 61.91.161.217	clients5.google.com
 61.91.161.217	clients6.google.com
+61.91.161.217	classroom.google.com
+61.91.161.217	classroom.google.ca
 61.91.161.217	clouderrorreporting.clients6.google.com
 61.91.161.217	datastore.clients6.google.com
 61.91.161.217	contributor.google.com
@@ -2855,7 +2857,7 @@ fe80::1%lo0	localhost
 31.13.70.52	api.instagram.com
 31.13.70.52	help.instagram.com
 31.13.70.52	blog.instagram.com
-74.117.178.40	graph.instagram.com
+31.13.69.245	graph.instagram.com
 31.13.70.52	logger.instagram.com
 31.13.70.52	badges.instagram.com
 31.13.95.48	platform.instagram.com
@@ -3100,6 +3102,59 @@ fe80::1%lo0	localhost
 # nytimes for mobile End
 
 # OneDrive Start
+204.79.197.217	onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+204.79.197.217	account.live.com
+131.253.61.98	login.live.com
+131.253.61.97	api.login.live.com
+207.46.101.29	ssw.live.com
+207.46.101.29	ssw-df.live.com
+#204.79.197.213	docs.live.net
+204.79.197.217	mail.live.com
+204.79.197.217	people.live.com
+204.79.197.217	profile.live.com
+204.79.197.213	api.onedrive.com
+204.79.197.213	storage.live.com
+134.170.108.24	skyapi.onedrive.live.com
+134.170.105.24	skyapi.live.net
+204.79.197.217	skyapi.policies.live.net
+134.170.108.24	apis.live.net
+134.170.108.24	l.live.net
+#134.170.108.24	d.docs.live.net
+23.44.152.70	auth.gfx.ms
+#23.212.129.202	p.sfx.ms
+65.55.52.23	directory.services.live.com
+204.79.197.213	bn1306.storage.skyprod.akadns.net
+204.79.197.213	asdzyw-bn1306.files.1drv.com
+204.79.197.213	fqxapq-bn1306.files.1drv.com
+204.79.197.213	hvukpa-bn1306.files.1drv.com
+204.79.197.213	ivvbsg-bn1306.files.1drv.com
+204.79.197.213	public-bn1306.files.1drv.com
+204.79.197.213	svdteg-bn1306.files.1drv.com
+204.79.197.213	public-dm2306.files.1drv.com
+204.79.197.213	nprmzg-bn1306.files.1drv.com
+204.79.197.213	slavvw-bn1306.files.1drv.com
+204.79.197.213	smnyag-bn1306.files.1drv.com
+204.79.197.213	svdteg-bn1306.files.1drv.com
+204.79.197.213	rdtikq-bn1306.files.1drv.com
+204.79.197.213	oqnmtq-bn1306.files.1drv.com
+204.79.197.213	ifvbsg-bn1306.files.1drv.com
+204.79.197.213	rtuqta-bn1306.files.1drv.com
+204.79.197.213	48srbg-bn1306.files.1drv.com
+204.79.197.213	ppssca-bn1306.files.1drv.com
+204.79.197.213	qii5sg-bn1306.files.1drv.com
+204.79.197.213	r1abtq-bn1306.files.1drv.com
+204.79.197.213	dm2303files.storage.live.com
+204.79.197.213	bn1306files.storage.live.com
+204.79.197.213	nhuhga.dm2301.livefilestore.com
+204.79.197.213	public.dm2301.livefilestore.com
+204.79.197.213	public.dm2302.livefilestore.com
+204.79.197.213	public.dm2303.livefilestore.com
+204.79.197.213	public.dm2304.livefilestore.com
+204.79.197.213	bn1306files.storage.live.com
+#204.79.197.211	cid-5b244b56e6779f21.users.storage.live.com
+111.221.29.254	vortex.data.microsoft.com
 134.170.108.26	onedrive.live.com
 134.170.108.152	skyapi.onedrive.live.com
 # OneDrive End
@@ -3162,7 +3217,7 @@ fe80::1%lo0	localhost
 66.6.32.4	www.tumblr.com
 66.6.32.22	cynicallys.tumblr.com
 66.6.32.22	mx.tumblr.com
-54.230.74.143	vt.tumblr.com
+54.182.6.6	vt.tumblr.com
 216.115.100.126	vtt.tumblr.com
 66.6.32.162	ls.srvcs.tumblr.com
 66.6.32.162	px.srvcs.tumblr.com
@@ -3173,7 +3228,7 @@ fe80::1%lo0	localhost
 216.115.100.125	24.media.tumblr.com
 192.229.237.98	30.media.tumblr.com
 216.115.100.126	31.media.tumblr.com
-52.85.155.236	32.media.tumblr.com
+54.239.176.79	32.media.tumblr.com
 216.115.100.126	33.media.tumblr.com
 54.230.158.13	36.media.tumblr.com
 216.115.100.126	37.media.tumblr.com
@@ -3197,45 +3252,45 @@ fe80::1%lo0	localhost
 216.115.100.125	90.media.tumblr.com
 128.127.159.1	94.media.tumblr.com
 23.2.16.8	95.media.tumblr.com
-52.85.155.236	96.media.tumblr.com
+54.239.176.79	96.media.tumblr.com
 192.229.237.98	97.media.tumblr.com
 151.101.76.249	98.media.tumblr.com
 209.197.3.20	99.media.tumblr.com
 # Tumblr End
 
 # Twitter Start
-202.171.253.111	twitter.com
-202.171.253.111	www.twitter.com
-185.45.5.36	t.co
-202.171.253.111	api.twitter.com
-202.171.253.111	mobile.twitter.com
-202.171.253.111	support.twitter.com
-202.171.253.111	upload.twitter.com
-202.171.253.111	tweetdeck.twitter.com
-202.171.253.111	syndication.twitter.com
-202.171.253.111	platform.twitter.com
-202.171.253.111	about.twitter.com
-202.171.253.111	blog.twitter.com
-202.171.253.111	betastream.twitter.com
-202.171.253.111	dev.twitter.com
-202.171.253.111	pic.twitter.com
-202.171.253.111	search.twitter.com
-202.171.253.111	status.twitter.com
-202.171.253.111	assets0.twitter.com
-202.171.253.111	assets1.twitter.com
-202.171.253.111	assets2.twitter.com
-202.171.253.111	assets3.twitter.com
-202.171.253.111	assets4.twitter.com
-202.171.253.111	static.twitter.com
-202.171.253.111	help.twitter.com
-202.171.253.111	ton.twitter.com
-202.171.253.111	s.twitter.com
-202.171.253.111	analytics.twitter.com
-202.171.253.111	urls-real.api.twitter.com
-202.171.253.111	userstream.twitter.com
-202.171.253.111	sitestream.twitter.com
-202.171.253.111	stream.twitter.com
-202.171.253.111	tdweb.twitter.com
+110.4.24.178	twitter.com
+110.4.24.178	www.twitter.com
+110.4.24.178	t.co
+110.4.24.178	api.twitter.com
+110.4.24.178	mobile.twitter.com
+110.4.24.178	support.twitter.com
+110.4.24.178	upload.twitter.com
+110.4.24.178	tweetdeck.twitter.com
+110.4.24.178	syndication.twitter.com
+110.4.24.178	platform.twitter.com
+110.4.24.178	about.twitter.com
+110.4.24.178	blog.twitter.com
+110.4.24.178	betastream.twitter.com
+110.4.24.178	dev.twitter.com
+110.4.24.178	pic.twitter.com
+110.4.24.178	search.twitter.com
+110.4.24.178	status.twitter.com
+110.4.24.178	assets0.twitter.com
+110.4.24.178	assets1.twitter.com
+110.4.24.178	assets2.twitter.com
+110.4.24.178	assets3.twitter.com
+110.4.24.178	assets4.twitter.com
+110.4.24.178	static.twitter.com
+110.4.24.178	help.twitter.com
+110.4.24.178	ton.twitter.com
+110.4.24.178	s.twitter.com
+110.4.24.178	analytics.twitter.com
+110.4.24.178	urls-real.api.twitter.com
+110.4.24.178	userstream.twitter.com
+110.4.24.178	sitestream.twitter.com
+110.4.24.178	stream.twitter.com
+110.4.24.178	tdweb.twitter.com
 173.236.110.98	twitpic.com
 173.236.110.98	m1.twitpic.com
 173.236.110.98	web1.twitpic.com
@@ -3248,33 +3303,33 @@ fe80::1%lo0	localhost
 173.236.110.98	web7.twitpic.com
 173.236.110.98	web8.twitpic.com
 173.236.110.98	web9.twitpic.com
-199.96.57.3	a0.twimg.com
-199.96.57.3	a1.twimg.com
-199.96.57.3	a2.twimg.com
-199.96.57.3	a3.twimg.com
-199.96.57.3	a4.twimg.com
-199.96.57.3	a5.twimg.com
-199.96.57.3	video.twimg.com
-199.96.57.3	abs.twimg.com
-199.96.57.3	g.twimg.com
-199.96.57.3	o.twimg.com
-199.96.57.3	p.twimg.com
-199.96.57.3	r.twimg.com
-199.96.57.3	ma.twimg.com
-199.96.57.3	pbs.twimg.com
-199.96.57.3	ton.twimg.com
-199.96.57.3	syndication.twimg.com
-199.96.57.3	syndication-o.twimg.com
-199.96.57.3	image-proxy-origin.twimg.com
-104.244.42.132	tweetdeck.com
-104.244.42.132	api.tweetdeck.com
-104.244.42.132	web.tweetdeck.com
-104.244.42.132	www.tweetdeck.com
-104.244.42.132	downloads.tweetdeck.com
-202.171.253.111	cdn.syndication.twimg.com
-202.171.253.111	cdn.syndication.twitter.com
-202.171.253.111	apps.twitter.com
-202.171.253.111	debates.twitter.com
+104.244.43.71	a0.twimg.com
+104.244.43.71	a1.twimg.com
+104.244.43.71	a2.twimg.com
+104.244.43.71	a3.twimg.com
+104.244.43.71	a4.twimg.com
+104.244.43.71	a5.twimg.com
+104.244.43.71	video.twimg.com
+104.244.43.71	abs.twimg.com
+104.244.43.71	g.twimg.com
+104.244.43.71	o.twimg.com
+104.244.43.71	p.twimg.com
+104.244.43.71	r.twimg.com
+104.244.43.71	ma.twimg.com
+104.244.43.71	pbs.twimg.com
+104.244.43.71	ton.twimg.com
+104.244.43.71	syndication.twimg.com
+104.244.43.71	syndication-o.twimg.com
+104.244.43.71	image-proxy-origin.twimg.com
+104.244.42.196	tweetdeck.com
+104.244.42.196	api.tweetdeck.com
+104.244.42.196	web.tweetdeck.com
+104.244.42.196	www.tweetdeck.com
+104.244.42.196	downloads.tweetdeck.com
+110.4.24.178	cdn.syndication.twimg.com
+110.4.24.178	cdn.syndication.twitter.com
+110.4.24.178	apps.twitter.com
+110.4.24.178	debates.twitter.com
 # Twitter End
 
 # Vimeo Start
@@ -3293,54 +3348,16 @@ fe80::1%lo0	localhost
 # W3schools End
 
 # Wikipedia Start
-91.198.174.192	wuu.wikipedia.org
-91.198.174.192	zh-yue.wikipedia.org
-91.198.174.192	zh.wikipedia.org
-91.198.174.192	zh.m.wikipedia.org
+198.35.26.96	wuu.wikipedia.org
+198.35.26.96	zh-yue.wikipedia.org
+198.35.26.96	zh.wikipedia.org
+198.35.26.96	zh.m.wikipedia.org
 # Wikipedia End
-
-# WordPress Start
-192.0.73.2	www.gravatar.com
-192.0.73.2	0.gravatar.com
-192.0.73.2	1.gravatar.com
-192.0.73.2	2.gravatar.com
-192.0.73.2	lb.gravatar.com
-192.0.73.2	secure.gravatar.com
-192.0.80.241	s.gravatar.com
-192.0.80.239	en.gravatar.com
-#192.0.80.240	en.gravatar.com
-192.0.81.250	botd2.wordpress.com
-66.155.9.238	dashboard.wordpress.com
-66.155.9.238	en.blog.wordpress.com
-66.155.9.238	en.forums.wordpress.com
-66.155.9.238	forums.wordpress.com
-192.0.77.2	i0.wp.com
-192.0.77.2	i1.wp.com
-192.0.77.2	i2.wp.com
-66.155.9.238	lb.wordpress.com
-66.155.9.238	lucifr.wordpress.com
-192.0.81.250	r-login.wordpress.com
-192.229.144.127	s.w.org
-68.232.44.111	s.wordpress.com
-68.232.44.111	s.wordpress.org
-68.232.44.111	s0.wp.com
-68.232.44.111	s1.wordpress.com
-68.232.44.111	s1.wp.com
-68.232.44.111	s2.wordpress.com
-68.232.44.111	s2.wp.com
-68.232.44.111	s3.wordpress.com
-66.155.9.238	stats.wordpress.com
-66.155.11.243	wordpress.com
-66.155.9.238	wpcom.wordpress.com
-66.155.9.238	zh.wordpress.com
-66.155.9.238	zh-cn.wordpress.com
-66.155.9.238	zh-sg.wordpress.com
-# WordPress End
 
 # Yahoo Start
 192.0.79.32	code.flickr.com
 121.101.144.112	api.flickr.com
-119.161.9.151	c5.ah.yahoo.com
+202.43.194.205	c5.ah.yahoo.com
 119.160.254.215	d.yimg.com
 106.10.136.195	de.yahoo.com
 119.160.254.215	e.yimg.com
@@ -3371,7 +3388,7 @@ fe80::1%lo0	localhost
 119.160.254.215	h.yimg.com
 106.10.199.10	hk.news.yahoo.com
 106.10.138.240	hk.yahoo.com
-206.190.39.139	hsrd.yahoo.com
+106.10.136.146	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
 119.160.254.215	l.yimg.com
 106.10.193.20	login.yahoo.com
@@ -3380,7 +3397,7 @@ fe80::1%lo0	localhost
 203.84.197.27	mg.mail.yahoo.com
 106.10.193.20	na.edit.yahoo.com
 106.10.193.20	open.login.yahoo.com
-98.136.166.37	overview.mail.yahoo.com
+216.39.54.12	overview.mail.yahoo.com
 119.160.254.215	p.yimg.com
 216.115.100.106	s.yimg.com
 119.160.254.215	s1.yimg.com
