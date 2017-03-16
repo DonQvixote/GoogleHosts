@@ -2,7 +2,7 @@
 
 ***外国的月亮没比较圆***     
 ***anti-GFW***可用IP,及时更新  
-![Freedom](https://raw.githubusercontent.com/racaljk/hosts/master/freedom.jpg)
+![Freedom](https://raw.githubusercontent.com/DonQvixote/GoogleHosts/master/freedom.jpg)
 
 One more thing
 ==============
