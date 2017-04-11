@@ -1,7 +1,7 @@
 ###################################################
 # Copyright (c) 2017                              #
 # https://github.com/DonQvixote/GoogleHosts       #
-# Last updated: 2017-04-03                        #
+# Last updated: 2017-04-11                        #
 # iOS/OS X/Windows/linux/                         #
 ###################################################
 
@@ -585,6 +585,7 @@ fe80::1%lo0	localhost
 61.91.161.217	accounts.google.com.gi
 61.91.161.217	accounts.google.co.nz
 61.91.161.217	id.google.co.nz
+61.91.161.217	googlecode.com
 61.91.161.217	www.googlecode.com
 61.91.161.217	fuchsia.googlesource.com
 61.91.161.217	googlesource.com
@@ -598,6 +599,7 @@ fe80::1%lo0	localhost
 61.91.161.217	gwt.googlesource.com
 61.91.161.217	code.google.com
 61.91.161.217	uploads.code.google.com
+61.91.161.217	android.googlecode.com
 61.91.161.217	chromium.googlecode.com
 61.91.161.217	closure-library.googlecode.com
 61.91.161.217	earth-api-samples.googlecode.com
@@ -623,6 +625,7 @@ fe80::1%lo0	localhost
 61.91.161.217	directory.google.com
 61.91.161.217	dir.google.com
 61.91.161.217	events.google.com
+61.91.161.217	events.withgoogle.com
 61.91.161.217	savethedate.foo
 61.91.161.217	www.savethedate.foo
 61.91.161.217	googledrive.com
