@@ -1,7 +1,7 @@
 # Google Hosts
 
-***外国的月亮没比较圆***     
-***anti-GFW***可用IP,及时更新  
+*外国的月亮没比较圆*     
+**anti-GFW**可用IP,及时更新  
 ![Freedom](https://raw.githubusercontent.com/DonQvixote/GoogleHosts/master/freedom.jpg)
 
 One more thing
