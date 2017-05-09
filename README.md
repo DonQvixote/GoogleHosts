@@ -6,7 +6,8 @@
 
 One more thing
 ==============
-[AppleDNS](https://github.com/gongjianhui/AppleDNS) Apple 网络服务加速配置
+* [AppleDNS](https://github.com/gongjianhui/AppleDNS) Apple 网络服务加速配置  
+* [yhosts](https://github.com/vokins/yhosts) Block ADs hosts
 
 License
 =======
