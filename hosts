@@ -1,7 +1,7 @@
 ###################################################
 # Copyright (c) 2018                              #
 # https://github.com/DonQvixote/GoogleHosts       #
-# Last updated: 2018-01-23                        #
+# Last updated: 2018-02-23                        #
 # iOS/OS X/Windows/linux/                         #
 ###################################################
 
@@ -43,11 +43,10 @@ fe80::1%lo0	localhost
 108.177.120.94	dev.android.com
 108.177.120.94	market.android.com
 108.177.120.94	r.android.com
-172.217.60.51	android.com
-172.217.60.47	www.android.com
-172.217.60.74	source.android.com
-172.217.60.162	tools.android.com
-172.217.60.97	developer.android.com
+216.58.217.196	android.com
+172.217.4.174	www.android.com
+172.217.4.174	source.android.com
+172.217.4.174	developer.android.com
 # Android End
 
 # Androidfilehost Start
@@ -233,7 +232,9 @@ fe80::1%lo0	localhost
 50.18.192.250	duckduckgo.com
 50.18.192.250	www.duckduckgo.com
 50.18.192.250	ac.duckduckgo.com
+50.18.192.250	start.duckduckgo.com
 54.229.110.205	icons.duckduckgo.com
+54.229.110.205	proxy.duckduckgo.com
 54.229.110.205	images.duckduckgo.com
 96.45.82.134	help.duckduckgo.com
 # DuckDuckGo End
@@ -329,7 +330,6 @@ fe80::1%lo0	localhost
 157.240.7.35	scontent-a-sin.xx.fbcdn.net
 157.240.7.35	scontent-b-lax.xx.fbcdn.net
 157.240.7.35	scontent-b-sin.xx.fbcdn.net
-157.240.7.35	static.xx.fbcdn.net
 157.240.7.35	static.thefacebook.com
 157.240.7.35	attachment.fbsbx.com
 157.240.7.35	messenger.com
@@ -352,6 +352,7 @@ fe80::1%lo0	localhost
 192.0.78.13	rightsmanager.fb.com
 192.0.78.13	techprep.fb.com
 192.0.78.13	work.fb.com
+31.13.91.15	static.xx.fbcdn.net
 31.13.91.15	scontent-lax3-1.xx.fbcdn.net
 31.13.91.15	scontent-lax3-2.xx.fbcdn.net
 31.13.91.15	scontent-lax3-3.xx.fbcdn.net
@@ -377,13 +378,8 @@ fe80::1%lo0	localhost
 # Facebook End
 
 # FlipBoard Start
-52.222.211.250	s.flipboard.com
-54.230.242.42	cdn.flipboard.com
-34.193.207.226	ue.flipboard.com
-34.192.210.197	beacon.flipboard.com
-52.44.196.4	flipboard.com
-52.204.24.196	fbprod.flipboard.com
-50.18.47.33	flipboard.helpshift.com
+52.44.186.59	beacon.flipboard.com
+52.205.51.238	fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
@@ -762,7 +758,7 @@ fe80::1%lo0	localhost
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-172.217.60.148	www.google.com.hk
+172.217.4.163	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -797,7 +793,7 @@ fe80::1%lo0	localhost
 216.58.200.24	www.google.com.sv
 216.58.200.24	www.google.com.tj
 216.58.200.24	www.google.com.tr
-172.217.60.221	www.google.com.tw
+172.217.4.163	www.google.com.tw
 216.58.200.24	www.google.com.ua
 216.58.200.24	www.google.com.uy
 216.58.200.24	www.google.com.vc
@@ -2311,6 +2307,7 @@ fe80::1%lo0	localhost
 216.239.38.21	ghs-svc-https-sni.ghs-ssl.googlehosted.com
 216.239.38.21	polymer-project.org
 216.239.38.21	material.io
+172.217.4.179	tools.android.com
 # Google:ghs End
 
 # Google:Made the code for girls Start Start
@@ -2665,8 +2662,8 @@ fe80::1%lo0	localhost
 # Ingress End
 
 # Instagram Start
-52.45.94.103	instagram.com
-157.240.11.172	www.instagram.com
+31.13.82.172	instagram.com
+31.13.82.174	www.instagram.com
 157.240.11.172	badges.instagram.com
 157.240.11.172	scontent.cdninstagram.com
 157.240.11.172	scontent-b.cdninstagram.com
@@ -2676,13 +2673,15 @@ fe80::1%lo0	localhost
 31.13.77.52	scontent-a.cdninstagram.com
 52.45.94.103	i.instagram.com
 52.45.94.103	api.instagram.com
-31.13.76.84	help.instagram.com
-31.13.76.84	scontent-sea1-1.cdninstagram.com
-31.13.76.84	platform.instagram.com
+31.13.76.172	help.instagram.com
+31.13.76.172	scontent-sea1-1.cdninstagram.com
+31.13.76.172	platform.instagram.com
 66.6.32.22	blog.instagram.com
 31.13.95.48	scontent-hkg3-1.cdninstagram.com
 157.240.15.63	scontent-hkg3-2.cdninstagram.com
-31.13.78.52	scontent-sit4-1.cdninstagram.com
+31.13.78.174	scontent-sit4-1.cdninstagram.com
+157.240.22.63	scontent-sjc3-1.cdninstagram.com
+157.240.13.172	scontent-sin6-2.cdninstagram.com
 # Instagram End
 
 # issuu Start
@@ -2790,10 +2789,12 @@ fe80::1%lo0	localhost
 203.104.150.46	obs.line-apps.com
 125.209.238.181	obs-cn.line-apps.com
 203.104.153.6	obs-tw.line-apps.com
+203.104.129.165	line-bot-cms-app-web.line-apps.com
 125.209.238.186	xcdn-cn.line-apps.com
 125.209.238.186	xcdn-cn-prf.line-apps.com
 125.209.238.186	xcdn-cn-shp.line-apps.com
 125.209.238.186	xcdn-cn-stk.line-apps.com
+203.104.129.195	line.naver.jp
 203.104.150.2	gd2.line.naver.jp
 203.104.153.129	gw.line.naver.jp
 203.104.160.12	gd2u.line.naver.jp
@@ -2801,18 +2802,34 @@ fe80::1%lo0	localhost
 203.104.174.20	gd2v.line.naver.jp
 125.209.252.18	gd2g.line.naver.jp
 125.209.252.17	gd2i.line.naver.jp
-125.209.222.59	gd2k.line.naver.jp
-125.209.222.202	gd2w.line.naver.jp
-125.209.222.202	gww.line.naver.jp
+125.209.222.70	gd2w.line.naver.jp
+125.209.222.70	gww.line.naver.jp
+125.209.222.70	ga2w.line.naver.jp
+125.209.222.70	gd2k.line.naver.jp
+125.209.222.70	ga2k.line.naver.jp
 203.104.174.18	gwx.line.naver.jp
 223.119.50.146	dl.profile.line.naver.jp
 223.119.50.144	dl.stickershop.line.naver.jp
 203.104.150.35	static.line.naver.jp
+125.209.222.75	poker.line.naver.jp
+203.104.153.184	channel.line.naver.jp
+184.50.87.74	dl.appresource.line.naver.jp
+184.50.87.41	dl.shop.line.naver.jp
+203.104.174.13	ga2v.line.naver.jp
+203.104.174.12	ga2s.line.naver.jp
+203.104.153.1	ga2.line.naver.jp
+184.50.87.51	dl.os.line.naver.jp
+125.209.238.207	timeline.line.naver.jp
+125.209.238.172	myhome.line.naver.jp
+125.209.222.57	homeapi.line.naver.jp
+125.209.238.185	noteapi.line.naver.jp
+125.209.238.185	cafeapi.line.naver.jp
 23.42.190.204	access.line.me
 2.17.50.95	help.line.me
 104.111.208.121	shop.line-scdn.net
 104.102.162.148	stickershop.line-scdn.net
 23.211.98.191	obs.line-scdn.net
+2.17.56.25	profile.line-scdn.net
 # Line End
 
 # MEGA Start
@@ -3139,6 +3156,7 @@ fe80::1%lo0	localhost
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
 149.154.166.206	core.telegram.org
+149.154.166.206	oauth.telegram.org
 149.154.167.216	api.telegram.org
 149.154.175.16	pluto.web.telegram.org
 149.154.175.16	pluto-1.web.telegram.org
@@ -3218,13 +3236,51 @@ fe80::1%lo0	localhost
 149.56.30.149	vnet.link
 # Vnet End
 
+# W3schools Start
+192.229.173.207	www.w3schools.com
+# W3schools End
+
 # Whatsapp Start
-157.240.1.53	www-cdn.whatsapp.net
-169.45.182.115	c.whatsapp.net
+107.23.234.123	www-cdn.whatsapp.net
+107.23.234.123	faq.whatsapp.com
+107.23.234.123	crashlogs.whatsapp.net
+54.210.50.132	mmg-fna.whatsapp.net
+54.210.50.132	mmh.whatsapp.net
+169.44.82.102	whatsapp.com
+169.44.82.102	www.whatsapp.com
+169.44.82.102	blog.whatsapp.com
+169.44.82.120	web.whatsapp.com
+169.44.82.120	dyn.web.whatsapp.com
+169.44.82.120	w1.web.whatsapp.com
+169.44.82.120	w2.web.whatsapp.com
+169.44.82.120	w3.web.whatsapp.com
+169.44.82.120	w4.web.whatsapp.com
+169.44.82.120	w5.web.whatsapp.com
+169.44.82.120	w6.web.whatsapp.com
+169.44.82.120	w7.web.whatsapp.com
+169.44.82.120	w8.web.whatsapp.com
+169.54.222.149	mms.whatsapp.net
+169.55.75.106	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
-173.192.219.135	p.whatsapp.net
+174.37.243.84	p.whatsapp.net
 50.22.210.33	r.whatsapp.net
 169.44.80.10	v.whatsapp.net
+169.63.73.124	e1.whatsapp.net
+169.63.73.124	e2.whatsapp.net
+169.63.73.124	e3.whatsapp.net
+169.63.73.124	e4.whatsapp.net
+169.63.73.124	e5.whatsapp.net
+169.63.73.124	e6.whatsapp.net
+169.63.73.124	e7.whatsapp.net
+169.63.73.124	e8.whatsapp.net
+169.63.73.124	e9.whatsapp.net
+169.63.73.124	e10.whatsapp.net
+169.63.73.124	e11.whatsapp.net
+169.63.73.124	e12.whatsapp.net
+169.63.73.124	e13.whatsapp.net
+169.63.73.124	e14.whatsapp.net
+169.63.73.124	e15.whatsapp.net
+169.63.73.124	e16.whatsapp.net
 # Whatsapp End
 
 # Web.de Start
@@ -3255,8 +3311,8 @@ fe80::1%lo0	localhost
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
 69.147.76.173	secure.flickr.com
-124.108.101.10	www.flickr.com
-124.108.101.10	heartbeat.flickr.com
+119.161.14.17	www.flickr.com
+119.161.14.17	heartbeat.flickr.com
 209.73.190.11	api.flickr.com
 209.73.190.12	up.flickr.com
 68.142.242.184	downloadr.flickr.com
