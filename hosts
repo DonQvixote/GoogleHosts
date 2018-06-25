@@ -37,11 +37,7 @@ fe80::1%lo0	localhost
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 184.51.15.69	images.ak.instagram.com
-23.51.209.100	blogthumb.pstatic.net
 2.17.28.19	s.pinimg.com
-2.17.28.19	v.pinimg.com
-104.118.71.71	i.pinimg.com
-104.118.71.71	s-media-cache-ak0.pinimg.com
 104.118.71.71	passets-cdn.pinterest.com
 # Akamai End
 
@@ -65,18 +61,9 @@ fe80::1%lo0	localhost
 172.217.16.246	developer.android.com
 # Android End
 
-# Androidfilehost Start
-151.139.240.14	androidfilehost.com
-# Androidfilehost End
-
 # Apkpure Start
 104.20.82.194	apkpure.com
-104.20.82.194	a.apkpure.com
-104.20.82.194	download.apkpure.com
 104.20.82.194	m.apkpure.com
-104.20.82.194	i.apkpure.com
-104.20.82.194	static.apkpure.com
-104.20.82.194	translate.apkpure.com
 # Apkpure End
 
 # Apkmirror Start
@@ -170,6 +157,10 @@ fe80::1%lo0	localhost
 107.152.24.197	upload.box.com
 107.152.24.197	m.box.com
 # Box End
+
+# Buzzfeed Start
+151.101.1.181	img.buzzfeed.com
+# Buzzfeed End
 
 # Change.org Start
 104.16.5.13	www.change.org
@@ -825,7 +816,7 @@ fe80::1%lo0	localhost
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 108.177.96.161	ogs.google.com
-108.177.9.162	www.google.com
+216.58.203.14	www.google.com
 108.177.103.161	id.google.com
 108.177.103.163	clients5.google.com
 108.177.111.119	apis.google.com
@@ -2667,7 +2658,6 @@ fe80::1%lo0	localhost
 # HumbleBundle Start
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
-203.69.81.33	humblebundle-a.akamaihd.net
 52.36.140.12	pubnub.com
 216.58.200.243	www.humblebundle.com
 # HumbleBundle End
@@ -3026,6 +3016,10 @@ fe80::1%lo0	localhost
 # Pcloud Start
 74.120.8.13	my.pcloud.com
 # Pcloud End
+
+# Pepitastore Start
+68.232.44.109	ips.pepitastore.com
+# Pepitastore End
 
 # Pinterest Start
 151.101.128.84	pinterest.com
